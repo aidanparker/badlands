@@ -1,3 +1,6 @@
 _site
 .sass-cache
 .jekyll-metadata
+
+# Directories containing copyrighted files are excluded from the open-source branch
+assets/images/special
